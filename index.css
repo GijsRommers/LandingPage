@@ -1,0 +1,39 @@
+body {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    margin: auto;
+}
+
+header {
+    background-color: #000000;
+    color: white;
+    font-size: 18pt;
+    font-weight: 300;
+    padding: 10px;
+}
+header img {
+    height: 100px;
+}
+
+h2{
+    font-size: 24pt;
+}
+p {
+    font-size: 16pt;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 18pt;
+}
+
+button {
+    background-color: white;
+    border: none;
+    width: 75px;
+}
+
+article img{
+    width: 100%;
+}
